@@ -13,6 +13,6 @@ As páginas dessa aplicação web são:
 
 - /datainfo3/usuario/formLogin: Página para Login na aplicação web.
 
-*** O Banco de Dados utilizado para elaboração da aplicação foi o HSQLDB.
-*** O Servidor utilizado para elaboração da aplicação foi o Tomcat.
+*** O Banco de Dados utilizado para elaboração da aplicação foi o HSQLDB v2.5.0.
+*** O Servidor utilizado para elaboração da aplicação foi o Tomcat v7.0.
 *** No arquivo pom.xml encontram todas as dependências e pluguins necessários para rodar tal aplicação.
