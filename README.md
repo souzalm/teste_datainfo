@@ -12,3 +12,7 @@ As páginas dessa aplicação web são:
 - /datainfo3/usuario/edit: Página para cadastro de Novo Usuário, deleção dos dados do Usuário e Edição dos dados do Usuário;
 
 - /datainfo3/usuario/formLogin: Página para Login na aplicação web.
+
+*** O Banco de Dados utilizado para elaboração da aplicação foi o HSQLDB.
+*** O Servidor utilizado para elaboração da aplicação foi o Tomcat.
+*** No arquivo pom.xml encontram todas as dependências e pluguins necessários para rodar tal aplicação.
