@@ -7,7 +7,7 @@ Também é possível realizar o carregamento de dados diretamente no BD.
 
 As páginas dessa aplicação web são:
 
-- /datainfo3/usuario/list: Página com a Lista de Usuários e botão para cadastro de Novo Usuário;
+- /datainfo3/usuario/list: Página com a Lista de Usuários e botão para cadastro de Novo Usuário e hiperlink para Edição de Usuário;
 
 - /datainfo3/usuario/edit: Página para cadastro de Novo Usuário, deleção dos dados do Usuário e Edição dos dados do Usuário;
 
