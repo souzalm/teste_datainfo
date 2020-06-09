@@ -1,5 +1,5 @@
 # teste_datainfo
-Repositório do teste de uma aplicação para um Sistema de Cadastro de Usuário para um teste da Datainfo.
+Repositório do teste de uma aplicação para um Sistema de Cadastro de Usuário para uma seleção da Datainfo.
 
 Para acessar o cadastro do BD da aplicação, posicionar as pastas para o build Maven juntamente com um servidor e acessar http://localhost:8080/datainfo3/usuario/list.
 
